@@ -1,7 +1,7 @@
 # AI/ML Domain
 
-## Decriptions
-Learning notebook for AI/ML domain from Linear Regression, Logistics Regression, VLA, LLM or CNN (Image Classification)
+## Descriptions
+Learning notebooks for AI/ML domain from Linear Regression, Logistics Regression, VLA, LLM or CNN (Image Classification)
 
 ## Machine Learning
 
