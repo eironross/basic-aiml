@@ -9,6 +9,7 @@ Learning notebooks for AI/ML domain from Linear Regression, Logistics Regression
 - test
 
 ### Logistic Regression
+- test
 
 ### Image Classification (CNN)
 
