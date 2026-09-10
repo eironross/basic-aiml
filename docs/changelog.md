@@ -1,3 +1,7 @@
+# 9/11/2026
+- dropped XGBoost notebook, Random Forest sufficient for now
+- created Decision Tree as requisite to Random Forest
+
 # 9/7/2026
 ## machine-learning
 - Random Forest notebook created
